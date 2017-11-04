@@ -1,0 +1,172 @@
+@font-face{
+	font-family: 'Century Gothic';
+	src: url(../fonts/GOTHIC.TTF);
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.resume{	
+	font-family: 'Century Gothic';	
+	width: 1030px;
+	margin: auto;	
+	margin-top: 75px;
+}
+.header{
+}
+.header__name{
+	font-size: 29px;
+	text-transform: uppercase;
+}
+.header__profession{
+	font-size: 16px;
+}
+.header__info{
+	margin-top: 15px;
+	font-size: 10px;
+	color: #a5a5a6;
+}
+.links{
+	font-size: 10px;
+	color: #a5a5a6;
+	text-decoration: none;
+}
+.header__line{
+	height: 1px;
+	background-color: #a5a5a6;
+	margin-top: 40px;
+}
+.yellow-head{
+	background: #e8c734;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #434244	;
+}
+.left-column{
+    width: 320px;
+	padding-right: 20px;
+	padding-top: 22px;
+	display: inline-block;
+	vertical-align: top;
+}
+.right-column{
+    width: 640px;
+    display:inline-block;
+}
+
+
+.content-block{
+	padding-top: 10px;
+}
+.table-block{
+	margin-top: 20px; 
+}
+.content-block__time{
+	color: #828385;
+	width: 130px;
+	display: inline-block;
+	vertical-align: top;
+}
+.content-block__place{
+	color: #434244;
+	width: 500px;
+	display: inline-block;
+}
+.kinda-table{
+	padding-bottom: 10px;
+}
+
+.resume__experience-date{
+	padding-bottom: 15px;
+	color: #9c9da0;
+}
+.resume__experience{
+	padding: 0;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.resume__experience-description{
+	padding-top: 15px;
+	padding-bottom: 6px;
+	color: #9c9da0;	
+}
+
+
+
+.ref-unit{
+	width: 49%;
+	display: inline-block;
+	font-size: 14px;
+}
+.ref-unit__contacts{
+	font-size: 10px;
+	color: #9c9da0;
+}
+
+
+.bar-border{
+	margin-right: 10%;
+	outline: 1px solid LightGray; 
+}
+.bar-name{
+	margin-bottom: 2px;
+}
+.main-content__progress{
+	background-color: Silver;
+	box-sizing: inherit;
+	margin-bottom: 20px;
+	height: 8px;
+	width: 60%;
+}
+.main-content__progress_60{
+	background-color: Silver;
+	box-sizing: inherit;
+	margin-bottom: 20px;
+	height: 8px;
+	width: 60%;
+}
+.main-content__progress_85{
+	background-color: Silver;
+	box-sizing: inherit;
+	margin-bottom: 20px;
+	height: 8px;
+	width: 85%;
+}
+.main-content__progress_60{
+	background-color: Silver;
+	box-sizing: inherit;
+	margin-bottom: 20px;
+	height: 8px;
+	width: 60%;
+}
+.main-content__progress_90{
+	background-color: Silver;
+	box-sizing: inherit;
+	margin-bottom: 20px;
+	height: 8px;
+	width: 90%;
+}
+.main-content__progress_75{
+	background-color: Silver;
+	box-sizing: inherit;
+	margin-bottom: 20px;
+	height: 8px;
+	width: 75%;
+}
+.main-content__progress_95{
+	background-color: Silver;
+	box-sizing: inherit;
+	margin-bottom: 20px;
+	height: 8px;
+	width: 95%;
+}
+.resume__yellow-line{
+	margin: 0px;
+	margin-top: 40px;
+	clear: both;
+	width: 100%;
+	height: 20px;
+	background-color: #e8c734;
+}
